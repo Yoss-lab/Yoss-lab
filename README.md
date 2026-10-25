@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Yosra Hassani 👋
 
-<!--
-**Yoss-lab/Yoss-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Integrator | Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Web Integrator with **5 years of experience** building responsive and user-friendly websites from graphic designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming UI designs into clean, accessible, and pixel-perfect web interfaces.
+
+- 💻 Experienced in HTML5, CSS3, SCSS, JavaScript and jQuery
+- 🌐 Working with WordPress and responsive web design
+- 🎨 Interested in UI integration, UX and web performance
+- 🤖 Exploring AI tools to improve productivity
+- 📚 Currently learning React.js
+- 📍 Based in Tunisia
+
+### 🛠️ Tech Stack
+
+**Front-End**
+
+HTML5 · CSS3 · SCSS · JavaScript · jQuery · Bootstrap
+
+**CMS & Back-End**
+
+WordPress · PHP · Symfony · MySQL
+
+**Tools**
+
+Git · GitHub · Figma · Photoshop
+
+### 🚀 Featured Projects
+
+- **[My Portfolio](https://yoss-lab.github.io/IA-portfolio/)** — My web development portfolio.
+- **[Centre L'Excellence](https://excellence.yosrahassani.ovh/)** — A web platform for managing training courses and educational activities.
+- **[GitHub Repositories](https://github.com/Yoss-lab?tab=repositories)** — Explore my projects and experiments.
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassani-yosra/)
+- 🌐 [Portfolio](https://yoss-lab.github.io/IA-portfolio/)
+- 🧑‍💻 [GitHub](https://github.com/Yoss-lab)
+
+---
+
+⭐ Thanks for visiting my profile!
